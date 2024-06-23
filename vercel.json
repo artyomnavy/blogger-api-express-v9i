@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "homework-10i",
+  "name": "blogger-api-express-v9i",
   "builds": [
     { "src": "src/index.ts", "use": "@vercel/node" }
   ],
